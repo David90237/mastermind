@@ -1,2 +1,3 @@
 # mastermind
-Trying to code a simple Mastermind, guess a combination of 3 letters representing colors (ex: b = blue, y = yellow, r = rouge), among a list of 5 colors. 10 tries are allowed to find the combination, if a color is right and at the right place it should be shown as a star, if correct but at a wrong place, it should show as W. Otherwise, wrong colors wil show as _.
+
+This is the public code from Andrew Tsegaye for the game, I'm just trying to try to change it a bit as I am learning python. I would like to chage the result to somehow show for the 4 colors, a !, if the color is in the code but at the wrong place, a # if it's at the right place and a - if not in the code. Any help is welcome! 
